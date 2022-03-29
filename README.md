@@ -17,7 +17,7 @@ Programkod ska se ut som exemplet nedan. Koden m√•ste vara korrekt indenterad d√
 
 *
 *
-I have changed header name of the app hollow world to my first app.
+I have changed header name of the app hellow world to my first app.
 *
 *
 
